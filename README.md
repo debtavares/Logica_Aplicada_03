@@ -2,7 +2,7 @@
 ###### POO - Programação Orientada a Objetos
 
 <br>
-Mini-projeto contendo alguns dos livros que foram lidos ou gostariam de ter sido lidos com os seguintes campos:
+Aplicabilidade de js + nodejs para indicar livros contendo as seguintes informações:
 <br><br>
 
 ```
